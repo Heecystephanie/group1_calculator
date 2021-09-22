@@ -5,7 +5,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: black;
+  background-color: #2D2424;
   font-family: sans-serif;
 }
 
@@ -59,7 +59,7 @@ button {
 
  #clear {
   background: #150e56;
-  color: white;
+  color: #FF2626;
 }
 
 
